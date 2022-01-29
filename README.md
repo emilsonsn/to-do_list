@@ -8,8 +8,6 @@
  Existem 3 opções no menu: Tarefas pendentes, Novas tarefas e Todas as tarefas.
  
  
- URL: [http://projetos-emilson.epizy.com/app_lista_tarefas/app_lista_tarefas_public/](http://projetos-emilson.epizy.com/app_lista_tarefas/app_lista_tarefas_public/)
- 
  ## Cadastro de tarefas 
  - Desktop
  
